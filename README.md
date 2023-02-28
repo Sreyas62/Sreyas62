@@ -1,5 +1,4 @@
-### Hi there 👋 I a'm Sreyas M Pillai.
-# Hi there , I am Nada El-Torgoman👋
+# Hi there 👋 I a'm Sreyas M Pillai.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Computer+Scinece+student;Flutter+Develober;Comptative+programming;Software+Engineering;Web+Developer&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000">
 </p>
