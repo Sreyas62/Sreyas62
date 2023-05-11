@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/sreyas_murali_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreyas_murali_" height="30" width="40" /></a>
+<a href="https://twitter.com/finato_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreyas_murali_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sreyas-m-pillai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreyas-m-pillai/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/__finato___08__?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/__finato___08__?igshid=zddkntzintm=" height="30" width="40" /></a>
 </p>
