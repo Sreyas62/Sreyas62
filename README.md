@@ -1,6 +1,6 @@
 <div align="center"><a href="#"><img width="50%" height="auto" src="https://miro.medium.com/v2/resize:fit:828/1*IRGHmiGsa16stedQvIaZfw.gif"/></a></div>
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I a'm Sreyas M Pillai.<br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&multiline=true&pause=1000&color=4BAAC8&center=true&width=450&height=100&lines=Front-End+Developer;UI/UX Designer;Computer+Science+student(2025);">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&multiline=true&pause=1000&color=4BAAC8&center=true&width=450&height=100&lines=Fullstack+Developer;UI/UX Designer;Computer+Science+student(2025);">
 </h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
