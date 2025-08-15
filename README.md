@@ -22,12 +22,11 @@
   </a>
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sreyas62&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sreyas62&theme=algolia&no-frame=true&margin-w=8&row=1&column=7" />
 </p>
-
 
 
 ## 📊 Most Used Languages
