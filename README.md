@@ -24,7 +24,7 @@ Fullstack Developer at **Backbase** with a strong focus on building scalable web
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,fastapi,javascript,express,flask,django,next,mongodb,mysql,postgres,npm,yarn,postman,netlify,vercel,notion,replit,linux,vscode,html,css,aws,gcp,docker,styledcomponents,java,tailwind,bootstrap,python,c,git,github,bash,discord,figma,firebase,jest,nodejs,ps,powershell&perline=8" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,angular,fastapi,express,flask,django,next,mongodb,mysql,postgres,npm,yarn,postman,netlify,vercel,notion,replit,linux,vscode,html,css,aws,gcp,docker,styledcomponents,java,tailwind,bootstrap,python,c,git,github,bash,figma,firebase,jest,nodejs,ps,powershell&perline=8" />
   </a>
 </p>
 
